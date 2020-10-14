@@ -1,0 +1,23 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "plugin:jsx-a11y/recommended",
+    "react-app"
+  ],
+  "plugins": [
+    "@typescript-eslint",
+    "jsx-a11y"
+  ],
+  "rules": {
+    "no-unused-vars": "error",
+    "no-multiple-empty-lines": "error",
+    "curly": [
+      2,
+      "all"
+    ]
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  }
+}

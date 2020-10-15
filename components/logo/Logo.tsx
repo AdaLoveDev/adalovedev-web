@@ -2,7 +2,7 @@ import React, { FC } from 'react';
 import styled from '@emotion/styled';
 
 const Img = styled.img`
-  height: 50vh;
+  max-height: 50vh;
 `;
 
 interface LogoProps {

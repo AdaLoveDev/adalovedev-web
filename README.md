@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AdaLoveDev website
 
-## Getting Started
+## Getting Started 🚀
 
 First, run the development server:
 
@@ -12,19 +12,18 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## About us 😎
+### AdaLoveDev
 
-## Learn More
+AdaLoveDev is a community of women who want to make more visible the role of girls in technology and science. The main objective of this organization is to improve the visibility of women in this topic and training theirs to empower their skills in tech with a special focus on computer science and programming.
 
-To learn more about Next.js, take a look at the following resources:
+We are a non-profit organization focused on the engagement, visibility and empowerment of women in technology, mainly programming and IT.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Our name comes from Ada Lovelace + development (AdaLoveDev). Ada is considered the person who wrote instructions for the first computer program and most of us are developers.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### AdaLoversConf
 
-## Deploy on Vercel
+AdaLoversConf is an annual event of the community AdaLoveDev. The main objective of this event is the visualization of girls in the development world 👩‍💻. This year we celebrate it on Tenerife, Canary Islands, Spain.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contribution 👩‍💻👨‍💻
+Show the [contributing file](CONTRIBUTING.md)

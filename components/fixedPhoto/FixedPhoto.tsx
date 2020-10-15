@@ -8,7 +8,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons/faEnvelope';
 
 const Container = styled.div`
-   height: 100vh;
+   min-height: 100vh;
    background-image: linear-gradient(rgba(106, 32, 90, 0.45), rgba(106, 32, 90, 0.80)), url('https://images.unsplash.com/photo-1573495783078-30b34471804b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
    background-position: center;
    background-size: cover;
@@ -22,6 +22,7 @@ const Container = styled.div`
 const SocialMedia = styled.div`
   color: #FFF;
   font-size: 35px;
+  padding-top: 3rem;
 `;
 
 const A = styled.a`

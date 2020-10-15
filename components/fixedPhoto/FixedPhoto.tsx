@@ -36,7 +36,7 @@ export const FixedPhoto: FC = () => {
     <Logo urlImg="/logo_blue_white.svg" />
     <JustifyText>
       <p>Somos una comunidad sin ánimo de lucro cuyo objetivo es dar visibilidad y empoderamiento a las mujeres en el sector tecnológico, concretamente, en el sector de desarrollo de software.</p>
-      <p>Nuestro es un tributo a Ada Lovelace, considerada la persona que escribió el primer programa de ordenador, y el amor por el desarrollo (development).</p>
+      <p>Nuestro nombre es un tributo a Ada Lovelace, considerada la persona que escribió el primer programa de ordenador, y el amor por el desarrollo (development).</p>
       <p>Si estás interesada en formar parte de la comunidad, o simplemente quieres colaborar, puedes contactar con nosotras por correo electrónico en <A href="mailto:organization@adalovedev.es">organization@adalovedev.es</A></p>
     </JustifyText>
     <SocialMedia>
